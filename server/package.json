@@ -8,7 +8,7 @@
     "dev": "nodemon server.js"
   },
   "keywords": ["expense-tracker", "mern", "express", "mongodb"],
-  "author": "Rajesh Phulwaria",
+  "author": "Mohd. Rehan Abbasi",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
